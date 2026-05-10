@@ -83,6 +83,6 @@ The messages Are: **03FF1602#043B8F00002B0412     02FF2602#DDB8FB433D7049DB**
 Use diagram below as reference.
 1. Connect the CAN “H” on the MCP2515 to either pins 6 or 9 on the battery
 2. Connect the CAN “L” on the MCP2515 to either pins 2 or 13 on the battery
-3. Connect your arduino to power and your battery should be outputting 48-50v on pins + 1, 14 ,   - 4, 11 :partying_face:
+3. Connect your arduino to power and your battery should be outputting 48V on pins + 1, 14 ,   - 4, 11 :partying_face:
 
 ![Screenshot_181.png](https://github.com/harveyg234/RPH0002-Battery-Arduino-Fix/blob/main/images/Screenshot_181.png)
